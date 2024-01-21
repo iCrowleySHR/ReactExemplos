@@ -1,0 +1,8 @@
+rodar liveserver:
+npm run dev
+
+iniciar projeto:
+npm create vite@latest NomeProjeto -- --template react
+
+instalar dependencia de rotas:
+npm i react-router-domn
